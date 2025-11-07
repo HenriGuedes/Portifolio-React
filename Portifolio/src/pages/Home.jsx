@@ -63,7 +63,7 @@ function Home() {
             {/* brilho sutil atrás da imagem */}
             <div className="absolute -inset-2 bg-gradient-to-r from-blue-400 to-cyan-400 rounded-full blur-lg opacity-25"></div>
             <img
-              src="src/assets/henrique2.jpeg"
+              src="/public/henrique2.jpeg"
               alt="Foto de Henrique Guedes"
               className="relative w-60 h-60 md:w-72 md:h-72 rounded-full border-4 border-blue-400 shadow-xl object-cover"
             />
