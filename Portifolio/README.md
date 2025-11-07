@@ -7,7 +7,7 @@ A aplicação conta com uma interface moderna, responsiva e organizada, permitin
 
 O site está hospedado na **Vercel**:  
 👉 [https://seu-portfolio.vercel.app](https://seu-portfolio.vercel.app)  
-_(substitua pelo seu link real da Vercel)_
+
 
 ## 🛠️ Tecnologias Utilizadas
 
